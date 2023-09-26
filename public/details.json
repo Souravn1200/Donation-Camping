@@ -8,7 +8,7 @@
       "card_bg": "rgba(0, 82, 255, 0.15)",
       "text_button_bg": "#0052FF",
       "description": "Support a health charity with your generous donation. Your contribution will help improve the health and well-being of those in need.",
-      "price": "$50.00"
+      "price": "50.00"
     },
     {
       "id": 2,
@@ -19,7 +19,7 @@
       "card_bg": "rgba(121, 194, 63, 0.15)",
       "text_button_bg": "#79C23F",
       "description": "Make a difference by contributing to our clothing drive. Your donation will provide clothing to individuals facing hardships.",
-      "price": "$25.00"
+      "price": "25.00"
     },
     {
       "id": 3,
@@ -30,7 +30,7 @@
       "card_bg": "rgba(248, 113, 71, 0.15)",
       "text_button_bg": "#F87147",
       "description": "Give the gift of nourishment by supporting your local food bank. Your donation helps ensure that no one goes hungry.",
-      "price": "$20.00"
+      "price": "20.00"
     },
     {
       "id": 4,
@@ -41,7 +41,7 @@
       "card_bg": "rgba(255, 68, 74, 0.15)",
       "text_button_bg": "#FF444A",
       "description": "Empower the future generation with your educational fund donation. Your contribution supports access to quality education for all.",
-      "price": "$30.00"
+      "price": "30.00"
     },
     {
         "id": 5,
@@ -52,7 +52,7 @@
         "card_bg": "rgba(0, 82, 255, 0.15)",
         "text_button_bg": "#0052FF",
         "description": "Contribute to the Clean Water Initiative and provide clean and safe drinking water to communities in need, transforming lives and improving health.",
-        "price": "$50.00"
+        "price": "50.00"
       },
       {
         "id": 6,
@@ -63,7 +63,7 @@
         "card_bg": "rgba(121, 194, 63, 0.15)",
         "text_button_bg": "#79C23F",
         "description": "Help us shelter and feed the homeless. Your donation ensures a warm bed and a meal for someone in need.",
-        "price": "$25.00"
+        "price": "25.00"
       },
       {
         "id": 7,
@@ -74,7 +74,7 @@
         "card_bg": "rgba(255, 68, 74, 0.15)",
         "text_button_bg": "#FF444A",
         "description": "Support aspiring students by funding scholarships. Your donation empowers the next generation of leaders.",
-        "price": "$20.00"
+        "price": "20.00"
       },
       {
         "id": 8,
@@ -85,7 +85,7 @@
         "card_bg": "rgba(0, 82, 255, 0.15)",
         "text_button_bg": "#0052FF",
         "description": "Contribute to our disaster relief efforts. Your donation helps communities recover from natural disasters.",
-        "price": "$30.00"
+        "price": "30.00"
       },
       {
         "id": 9,
@@ -96,7 +96,7 @@
         "card_bg": "rgba(248, 113, 71, 0.15)",
         "text_button_bg": "#F87147",
         "description": "Help us provide meals to families facing hunger. Your donation ensures that no one goes to bed hungry.",
-        "price": "$35.00"
+        "price": "35.00"
       },
       {
         "id": 10,
@@ -107,7 +107,7 @@
         "card_bg": "rgba(0, 82, 255, 0.15)",
         "text_button_bg": "#0052FF",
         "description": "Support the distribution of essential medical supplies to underserved regions. Your donation saves lives.",
-        "price": "$40.00"
+        "price": "40.00"
       },
       {
         "id": 11,
@@ -118,7 +118,7 @@
         "card_bg": "rgba(0, 82, 255, 0.15)",
         "text_button_bg": "#0052FF",
         "description": "Protect and care for animals in need. Your donation ensures the well-being of our furry friends.",
-        "price": "$20.00"
+        "price": "20.00"
       },
       {
         "id": 12,
@@ -129,6 +129,6 @@
         "card_bg": "rgba(255, 68, 74, 0.15)",
         "text_button_bg": "#FF444A",
         "description": "Contribute to environmental conservation efforts and help protect our planet for future generations.",
-        "price": "$50.00"
+        "price": "50.00"
       }
   ]

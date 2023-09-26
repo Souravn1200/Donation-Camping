@@ -1,6 +1,5 @@
 
 const DonationStored = ({donation}) => {
-
     const {picture, title, category, category_bg, card_bg, text_button_bg, description, price } =  donation
 
     return (
