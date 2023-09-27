@@ -45,17 +45,17 @@ const handlerAlert = () =>{
 
     return (
         <div>
-            {donatedArr.length}
-         <div className="card relative group mt-10">
+            
+         <div className="card relative group mt-10 mx-16 lg:mx-0">
             <img src={picture} alt="" />
             <div className="absolute inset-x-0 bottom-0 h-16 flex justify-start items-center bg-black bg-opacity-50 ">
-                <button className=" text-white py-2 px-4 rounded block ml-2 mt-2 mb-2" style={{ backgroundColor: `${text_button_bg}` }} onClick={handlerAlert} >Donate {price}</button>
+                <button className=" text-white py-2 px-4 rounded block ml-2 mt-2 mb-2" style={{ backgroundColor: `${text_button_bg}` }} onClick={handlerAlert} >Donate {price} $</button>
             </div>
          </div>
             <div >
 
-  <div className="mt-10">
-    <h2 className="text-3xl">{title}</h2>
+  <div className="mt-10 mx-16 lg:mx-0">
+    <h2 className="lg:text-3xl">{title}</h2>
     <p className="mt-10">{description}</p>
   </div>
 </div>
@@ -65,4 +65,3 @@ const handlerAlert = () =>{
 
 export default CardDetails;
 
-// opacity-0 transition-opacity group-hover:opacity-100

@@ -27,13 +27,13 @@ const Navbar = () => {
 
 
 
-  <div className="flex justify-between items-center mt-5">
+  <div className="lg: flex justify-between items-center mt-5">
     
-            <div className="w-40">
+            <div className="w-40 hidden lg:block">
             <img src="https://i.ibb.co/SvPW5XH/Logo.png" alt=""/>
             </div>
             
-            <div>
+            <div className="mx-auto lg:mx-0">
             <ul className="flex gap-4">
       <li className="mr-4"><NavLink to="/"
             className={({ isActive, isPending }) =>

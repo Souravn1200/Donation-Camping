@@ -22,7 +22,7 @@ const Donation = () => {
     return (
         <div>
             
-<div className="grid grid-cols-2 gap-10 mt-10">
+<div className="grid lg:grid-cols-2 md:grid-cols-2 grid-cols-1 lg:gap-10 gap-4 mt-10 ">
             {
                 isViewAll ? donations.map( donation => <DonationStored key={donation.id} donation={donation}></DonationStored>)
                 : donations.slice(0,4).map( donation => <DonationStored key={donation.id} donation={donation}></DonationStored>)
